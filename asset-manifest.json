@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.acca336f.css",
+    "main.js": "/static/js/main.5db73c2c.js",
+    "static/js/787.562284d7.chunk.js": "/static/js/787.562284d7.chunk.js",
+    "static/media/video1.mp4": "/static/media/video1.fd9c1af49f1bb4a4da06.mp4",
+    "static/media/video14.mp4": "/static/media/video14.4a9767311bc1c474b7ba.mp4",
+    "static/media/video3.mp4": "/static/media/video3.8bcb9c9e7c89f6e83884.mp4",
+    "static/media/video6.mp4": "/static/media/video6.6f682ad0e8de53ab63eb.mp4",
+    "static/media/video4.mp4": "/static/media/video4.3fcf8ffba664da6f3b8b.mp4",
+    "static/media/video12.mp4": "/static/media/video12.7a057f4981a698333e0e.mp4",
+    "static/media/video13.mp4": "/static/media/video13.299392bf562a8417f2a4.mp4",
+    "static/media/video5.mp4": "/static/media/video5.ca2737381cbca910a062.mp4",
+    "static/media/video2.mp4": "/static/media/video2.65b55c5643a2f4d5bf4a.mp4",
+    "static/media/video15.mp4": "/static/media/video15.6ff3197d3791ffb34b90.mp4",
+    "static/media/video11.mp4": "/static/media/video11.ccd95596d4ef7c5c1f76.mp4",
+    "static/media/video7.mp4": "/static/media/video7.f73e9f25843894e2f7d4.mp4",
+    "static/media/video10.mp4": "/static/media/video10.fa23414eedc9ce07673f.mp4",
+    "static/media/video8.mp4": "/static/media/video8.866dd58fa131916ace70.mp4",
+    "static/media/video9.mp4": "/static/media/video9.6681860e1d77e452bcd3.mp4",
+    "static/media/video16.mp4": "/static/media/video16.57bfd267d707db0d1b5a.mp4",
+    "static/media/qr-tiktok.png": "/static/media/qr-tiktok.47624c235266dedd8e4d.png",
+    "static/media/img-microsoft.png": "/static/media/img-microsoft.f1596f39e85631c052c4.png",
+    "static/media/logo.png": "/static/media/logo.6a0d18fb598baeac5006.png",
+    "index.html": "/index.html",
+    "main.acca336f.css.map": "/static/css/main.acca336f.css.map",
+    "main.5db73c2c.js.map": "/static/js/main.5db73c2c.js.map",
+    "787.562284d7.chunk.js.map": "/static/js/787.562284d7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.acca336f.css",
+    "static/js/main.5db73c2c.js"
+  ]
+}
